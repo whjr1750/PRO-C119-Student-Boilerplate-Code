@@ -59,3 +59,7 @@ stem_words, classes = create_bot_corpus(stem_words,classes)
 
 print(stem_words)
 print(classes)
+
+#Create Bag Of Words
+
+#Create training data
